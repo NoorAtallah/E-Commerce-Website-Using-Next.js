@@ -11,7 +11,7 @@ export default function HomePage() {
       <h1 className="text-4xl font-bold mb-8">Welcome to Simple E-Commerce</h1>
       <nav className="flex space-x-6 text-lg">
         <Link href="/products" className="hover:underline">Products</Link>
-        <Link href="/about" className="hover:underline">About Us</Link>
+        <Link href="/about" className="hover:underline">About </Link>
       </nav>
     </div>
   );
